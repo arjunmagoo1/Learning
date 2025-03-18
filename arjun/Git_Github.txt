@@ -1,0 +1,14 @@
+
+
+Github : cloud based platform to store changes
+
+Git : version control system 
+
+git actions: We take action using git 
+
+clone : make copy of repository to your system and use git for tracking 
+
+fork: its a new repository , share codes with the original repository its github to github
+
+donwload: noral download zip file
+

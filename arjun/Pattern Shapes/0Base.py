@@ -20,15 +20,15 @@
 
 for row in range(0,7):
 
-    for col in range(0,4):
+    for col in range(0,5):
 
        if():
 
          print("*" , end=" ")
 
-    else:
+       else:
 
-        print(" ", end=" ")
+         print(" ", end=" ")
 
 
     print() 
